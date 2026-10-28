@@ -100,5 +100,24 @@ public class Main {
       // }
 
 
+      // pre increment(++a)  && post increment(a++)
+      // predecrement(--a)  && post decrement (a--)
+
+      // int a =2;
+      // int b=a++;
+      // System.out.println(b); 
+
+      // int a =2;
+      // int b=++a;
+      // System.out.println(b); 
+
+
+      // int a =2;
+      // int b=--a;
+      // System.out.println(b); 
+
+      //   int a =2;
+      // int b=a--;
+      // System.out.println(b); 
     }
 }
