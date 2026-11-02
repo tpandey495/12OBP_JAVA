@@ -34,7 +34,6 @@ public class Main {
       // n!/r!*n-r!
      int res=factorial(n)/(factorial(r)*factorial(n-r));
      return res;
-
     }
 
     
@@ -58,11 +57,11 @@ public class Main {
         // System.out.println(Power(n,x));
 
         // ncr= n!/r!*n-r!
-        System.out.println(nCr(n,x));
+       //  System.out.println(nCr(n,x));
 
 
 
-        sc.close();
+
     }
 
 
