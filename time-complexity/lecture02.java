@@ -163,20 +163,6 @@ public class Main {
 
       //  Big oh -> o() -> worst case
       // Big omega ->      best cas
-      //  Big theta ->   eaverage case
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+      //  Big theta ->   eaverage case    
     }
 }
